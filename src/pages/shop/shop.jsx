@@ -2,11 +2,12 @@ import React from 'react';
 import { PRODUCTS } from '../../product'
 import { Product } from './product';
 import './shop.css';
+import Logo from '../../assets/delivery2.jpeg';
 export const Shop = () => {
     return (
         <div className='shop'>
             <div className='shopTitle'>
-                <h1>Kian's Pet Shop</h1>
+                <img src={Logo}/>
             </div>
             <div className='products'>
                 {PRODUCTS.map((product) => (

@@ -1,6 +1,7 @@
 .navbar {
     width: 100%;
     height: 80px;
+    background-image: url(../assets/restaurant.webp);
     background-color: rgb(19, 19, 19);
     display: flex;
     justify-content: flex-end;
@@ -18,4 +19,15 @@
     color: white;
     margin-left: 20px;
     font-size: 25px;
+    font-family: 'Poppins', sans-serif;
   }
+  .links a:hover{
+    color: aliceblue;
+  }
+.logo{
+  display: flex;
+  align-items: left;
+  width: 100%;
+  height: 70px;
+  margin-left: 10px;
+}
