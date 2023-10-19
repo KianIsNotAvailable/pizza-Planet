@@ -12,6 +12,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
+    color: #980105;
   }
   
   .product {
@@ -40,17 +41,18 @@
   
   .addToCartBttn {
     background-color: transparent;
-    border: 2px solid rgb(255, 0, 0);
+    border: 2px solid #980105;
     min-width: 100px;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
     border-radius: 15px;
+    color: #980105;
   }
   
   .addToCartBttn:hover {
-    background-color: rgb(255, 0, 0);
+    background-color: #980105;
     color: white;
     cursor: pointer;
   }

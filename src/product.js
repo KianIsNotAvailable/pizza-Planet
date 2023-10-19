@@ -6,25 +6,25 @@ import product4 from './assets/pepperoni.webp';
 export const PRODUCTS = [
     {
         id: 1,
-        productName: 'Cheese Pizza',
+        productName: 'CHEESE PIZZA',
         Price: 8.99,
         productImage: product1,
     },
     {
         id: 2,
-        productName: 'Hawaiian Pizza',
+        productName: 'HAWAIIAN PIZZA',
         Price: 10.0,
         productImage: product2,
     },
     {
         id: 3,
-        productName: 'Hot and Spicy Pizza',
+        productName: 'HOT AND SPICY PIZZA',
         Price: 10.0,
         productImage: product3,
     },
     {
         id: 4,
-        productName: 'Pepperoni Pizza',
+        productName: 'PEPPERONI PIZZA',
         Price: 10.0,
         productImage: product4,
     },
