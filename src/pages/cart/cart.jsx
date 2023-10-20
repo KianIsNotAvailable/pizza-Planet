@@ -2,8 +2,8 @@ import React, {useContext } from 'react';
 import { PRODUCTS } from '../../product';
 import { ShopContext } from '../../context/shop-context';
 import { CartItem } from './cart-item';
-import './cart.css';
-import { useNavigate } from "react-router-dom";    
+import { useNavigate } from "react-router-dom"; 
+import './cart.css';   
 
 
 export const Cart = () => {
