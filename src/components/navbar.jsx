@@ -10,7 +10,7 @@ export const Navbar = () => {
             <img src={PizzaLogo}/>
         </div>
         <div className="links">
-            <Link to="/"> Shop </Link>
+            <Link to="/pizza-Planet"> Shop </Link>
             <Link to="/cart">
                 <ShoppingCart size={32}/>
             </Link>
