@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizza-planet/static/css/main.eeb5a403.css",
+    "main.js": "/pizza-planet/static/js/main.aa6af7ba.js",
+    "static/js/787.bc7d429a.chunk.js": "/pizza-planet/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo2.png": "/pizza-planet/static/media/logo2.df42bf976a9b24e54077.png",
+    "static/media/delivery2.jpeg": "/pizza-planet/static/media/delivery2.46eb308fc7d5b02b55f7.jpeg",
+    "static/media/aliens.jpeg": "/pizza-planet/static/media/aliens.03297cac4c8c062d38a5.jpeg",
+    "static/media/restaurant.webp": "/pizza-planet/static/media/restaurant.1b168120d23c441a3ea6.webp",
+    "static/media/pepperoni.webp": "/pizza-planet/static/media/pepperoni.3c7f4d3f5a3c3d709c7b.webp",
+    "static/media/hot-and-spicy.webp": "/pizza-planet/static/media/hot-and-spicy.1dd1082dba6819df7b52.webp",
+    "static/media/hawaiian.webp": "/pizza-planet/static/media/hawaiian.e731244f655367020a27.webp",
+    "static/media/cheese.webp": "/pizza-planet/static/media/cheese.a456000d37c174958a52.webp",
+    "index.html": "/pizza-planet/index.html",
+    "main.eeb5a403.css.map": "/pizza-planet/static/css/main.eeb5a403.css.map",
+    "main.aa6af7ba.js.map": "/pizza-planet/static/js/main.aa6af7ba.js.map",
+    "787.bc7d429a.chunk.js.map": "/pizza-planet/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb5a403.css",
+    "static/js/main.aa6af7ba.js"
+  ]
+}
