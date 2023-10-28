@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pizza-Planet/static/css/main.08d26d1c.css",
-    "main.js": "/pizza-Planet/static/js/main.a4372d82.js",
+    "main.js": "/pizza-Planet/static/js/main.47f22ee4.js",
     "static/js/787.bc7d429a.chunk.js": "/pizza-Planet/static/js/787.bc7d429a.chunk.js",
     "static/media/logo2.png": "/pizza-Planet/static/media/logo2.df42bf976a9b24e54077.png",
     "static/media/delivery2.jpeg": "/pizza-Planet/static/media/delivery2.46eb308fc7d5b02b55f7.jpeg",
@@ -13,11 +13,11 @@
     "static/media/cheese.webp": "/pizza-Planet/static/media/cheese.a456000d37c174958a52.webp",
     "index.html": "/pizza-Planet/index.html",
     "main.08d26d1c.css.map": "/pizza-Planet/static/css/main.08d26d1c.css.map",
-    "main.a4372d82.js.map": "/pizza-Planet/static/js/main.a4372d82.js.map",
+    "main.47f22ee4.js.map": "/pizza-Planet/static/js/main.47f22ee4.js.map",
     "787.bc7d429a.chunk.js.map": "/pizza-Planet/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08d26d1c.css",
-    "static/js/main.a4372d82.js"
+    "static/js/main.47f22ee4.js"
   ]
 }
