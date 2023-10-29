@@ -1,5 +1,16 @@
 
-.footer img{
+.footer{
    width: 100%;
     margin-top: 200px;
+    position: relative;
+    text-align: center;
+}
+.copyright{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    color: white;
+}
+#alien{
+    width: 100%;
 }

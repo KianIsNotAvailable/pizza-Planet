@@ -60,3 +60,7 @@ h1,
 h3 {
 	text-align: center;
 }
+.total,
+.checkout{
+color: #980105;
+}

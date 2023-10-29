@@ -21,7 +21,7 @@ export function Checkout(){
     const navigate = useNavigate();
     return (
         <div>
-            <div><h1>Checkout</h1>
+            <div><h1 className='checkout'>Checkout</h1>
             </div>
             <div className='checkoutItems'>
                 {PRODUCTS.map((product) => {
@@ -32,7 +32,7 @@ export function Checkout(){
                 })}
             </div>
             <div>
-                <h1>Total: ${totalAmount}</h1>
+                <h1 className='total'>Total: ${totalAmount}</h1>
             </div>
         <Elements stripe={stripeTestPromise}>
             <PaymentForm />
