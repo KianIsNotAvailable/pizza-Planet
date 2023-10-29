@@ -9,7 +9,19 @@ npm - Node.js package manager to install project dependencies.
 Visit https://kianisnotavailable.github.io/pizza-Planet in your web browser. No installation is required as the calculator is hosted online.
 ## To run locally
 Follow the following steps:
-1. git clone
+1. Clone the repository to your local machine:
+ git clone https://github.com/KianIsNotAvailable/pizza-Planet.git
+2. Navigate to the project directory:
+   cd my-react-app
+3. Install the project dependencies using npm:
+   npm install
+4. Start the development server:
+   npm start
+The application should now be running locally and can be accessed in your web browser at http://localhost:3000.
+#Usage
+The Pizza Ecommerce Store allows users to do the following:
+1. Browse a selection of mouthwatering pizza options.
+2. Add pizzas to their cart and proceed to checkout.
 
 
 
