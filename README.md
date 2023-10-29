@@ -1,3 +1,33 @@
+# Pizza Ecommerce Store
+Welcome to Pizza Planet! This is a web application built with React JS that allows users to browse and add pizza to their cart.
+# Getting Started
+## Prerequisites
+Before you can run the Pizza Planet Ecommerce Store locally, ensure you have the following software installed:
+Node.js - A JavaScript runtime that is required for running React applications.
+npm - Node.js package manager to install project dependencies.
+# Installation
+Visit https://kianisnotavailable.github.io/pizza-Planet in your web browser. No installation is required as the calculator is hosted online.
+## To run locally
+Follow the following steps:
+1. git clone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
